@@ -1,5 +1,5 @@
 ############################ Default configuration #########################
-baseURL = "https://tmrlevy.github.io/"
+baseURL = "https://devhouse.co.il/"
 languageCode = "en-us"
 # site title 
 title = "DevHouse | הבית שלך לפיתוח"
