@@ -41,12 +41,12 @@ link = "plugins/search/search.js"
 # main menu
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "צור קשר"
 weight = 1
 
 [[menu.main]]
 URL = "tools"
-name = "tools"
+name = "כלים"
 weight = 2
 
 [[menu.main]]
@@ -57,12 +57,12 @@ weight = 2
 # footer menu
 [[menu.footer]]
 URL = "contact"
-name = "Contact"
+name = "צור קשר"
 weight = 1
 
 [[menu.footer]]
 URL = "tools"
-name = "tools"
+name = "כלים"
 weight = 2
 
 
@@ -80,7 +80,7 @@ google_tag_manager = "" # your id
 # contact form action
 contact_form_action = "https://formspree.io/f/mpzkepwr" # contact form works with : https://formspree.io
 # copyright
-copyright = "&copy; 2021 DevHouse.co.il All Rights Reserved"
+copyright = "&copy; 2021 DevHouse.co.il כל הזכויות שמורות"
 
 # preloader
 [params.preloader]
@@ -99,7 +99,7 @@ expire_days = 2
 ####################### banner #######################################
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-title = "אנחנו בדבהאוס משתדלים לעזור לאנשים להגיע לפיתוח אליו הם רוצים להשיג בעולם האינטרנט"
+title = "אנחנו משתדלים לעזור לאנשים להגיע לתוצר אליו הם רוצים להגיע בעידן האינטרנט"
 image = "images/banner/illustration.svg"
 
 
