@@ -50,8 +50,8 @@ name = "tools"
 weight = 2
 
 [[menu.main]]
-URL = "https://gethugothemes.com/products/northendlab/"
-name = "Buy Premium"
+URL = "https://devhouse.co.il/about-us/"
+name = "אדותינו"
 weight = 2
 
 # footer menu
@@ -69,16 +69,16 @@ weight = 2
 ######################### Default Parameters ###########################
 [params]
 # home
-home = "Home"
+home = "בית"
 # logo
 logo = "images/logo.svg"
 # meta data
-author = "Themefisher"
+author = "תומר לוי"
 description = "הבית שלך לפיתוח"
 # google tag manager
 google_tag_manager = "" # your id
 # contact form action
-contact_form_action = "#" # contact form works with : https://formspree.io
+contact_form_action = "https://formspree.io/f/mpzkepwr" # contact form works with : https://formspree.io
 # copyright
 copyright = "&copy; 2021 DevHouse.co.il All Rights Reserved"
 
